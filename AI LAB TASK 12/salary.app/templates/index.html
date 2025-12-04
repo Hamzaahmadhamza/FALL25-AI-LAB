@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Salary Prediction App</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+</head>
+<body>
+    <h1>Salary Prediction App</h1>
+    <form method="POST">
+        <label>Experience (Years):</label>
+        <input type="number" name="experience" step="1" required><br><br>
+
+        <label>Age:</label>
+        <input type="number" name="age" step="1" required><br><br>
+
+        <label>Gender:</label>
+        <select name="gender" required>
+            <option value="Male">Male</option>
+            <option value="Female">Female</option>
+        </select><br><br>
+
+        <button type="submit">Predict Salary</button>
+    </form>
+
+    {% if salary %}
+    <h2>Predicted Salary: {{ salary | round(2) }}</h2>
+    {% endif %}
+</body>
+</html>
