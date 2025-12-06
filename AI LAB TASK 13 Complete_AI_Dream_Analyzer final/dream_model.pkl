@@ -1,0 +1,45 @@
+import pandas as pd
+import joblib
+import re
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.preprocessing import MultiLabelBinarizer
+from sklearn.linear_model import LogisticRegression
+from sklearn.pipeline import Pipeline
+from sklearn.model_selection import train_test_split
+
+def preprocess(text):
+    text = text.lower().strip()
+    text = re.sub(r"\s+", " ", text)
+    return text
+
+df = pd.read_csv("dream_expressions_dataset.csv")
+
+if "dream" not in df.columns or "emotion" not in df.columns:
+    raise ValueError("Dataset must contain 'dream' and 'emotion' columns.")
+
+df["emotion"] = df["emotion"].apply(lambda x: [e.strip() for e in str(x).split(",")])
+df["dream_clean"] = df["dream"].apply(preprocess)
+
+mlb = MultiLabelBinarizer()
+Y = mlb.fit_transform(df["emotion"])
+
+X_train, X_test, y_train, y_test = train_test_split(
+    df["dream_clean"], Y, test_size=0.2, random_state=42
+)
+
+pipeline = Pipeline([
+    ("tfidf", TfidfVectorizer(max_features=5000)),
+    ("clf", LogisticRegression(max_iter=2000))
+])
+
+print("Training model...")
+pipeline.fit(X_train, y_train)
+print("Training complete.")
+
+joblib.dump(pipeline, "pipeline.joblib")
+joblib.dump(mlb, "mlb.joblib")
+
+print("Saved: pipeline.joblib, mlb.joblib")
+
+score = pipeline.score(X_test, y_test)
+print("Test Accuracy:", score)

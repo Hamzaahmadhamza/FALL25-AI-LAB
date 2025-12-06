@@ -1,0 +1,188 @@
+id,dream_text,primary_emotion,secondary_emotion,emotions,intensity
+17.0,My lost pet returned home safe and wagging its tail.,relief,,relief,0.64
+173.0,A light appeared at the end of a long hallway and kept getting brighter. in slow motion.,hope,embarrassment,hope;embarrassment,0.6
+128.0,The sea swallowed the shore and I held onto a floating plank alone.,despair,surprise,despair;surprise,0.82
+41.0,A familiar smile reunited me with an old friend and everything felt warm. in an upside-down house.,love,,love,0.94
+107.0,A weight lifted from my shoulders and I could breathe easily.,relief,,relief,0.68
+171.0,A playground from childhood appeared and I swung until the sun set.,nostalgia,,nostalgia,0.86
+99.0,I found an old photograph of someone I lost and couldn't reach them. in slow motion.,sadness,,sadness,0.86
+149.0,I opened a tiny door and found a ladder going into the stars. in slow motion.,curiosity,relief,curiosity;relief,0.9
+36.0,The sea swallowed the shore and I held onto a floating plank alone. suddenly.,despair,awe,despair;awe,0.8
+57.0,A house I loved was empty and full of dust and silence. with my hands tied.,sadness,love,sadness;love,0.75
+119.0,I couldn't stop falling and woke up before hitting the ground.,anxiety,,anxiety,0.78
+59.0,A playground from childhood appeared and I swung until the sun set. with bright colors.,nostalgia,,nostalgia,0.93
+5.0,A familiar smile reunited me with an old friend and everything felt warm. while it rained.,love,,love,0.97
+124.0,I followed rabbit holes that led to different eras of my life. with bright colors.,curiosity,,curiosity,0.63
+60.0,I followed rabbit holes that led to different eras of my life. while it rained.,curiosity,,curiosity,0.92
+32.0,I floated above the city and saw constellations drawn between buildings. with my hands tied.,awe,,awe,0.41
+49.0,I smashed a window that wouldn't stop replaying an argument. and the sky was green.,anger,,anger,1.0
+172.0,I found a letter saying I've been accepted into my dream program.,joy,,joy,0.59
+166.0,I saw my partner waiting at a train station with a huge bouquet. in an upside-down house.,love,loneliness,love;loneliness,0.81
+178.0,I walked into a classroom in my pajamas while everyone stared. suddenly.,embarrassment,curiosity,embarrassment;curiosity,0.67
+148.0,I floated above the city and saw constellations drawn between buildings.,awe,,awe,0.57
+12.0,A shadow followed me through a dark forest and I couldn't see its face.,fear,,fear,0.55
+94.0,I opened a tiny door and found a ladder going into the stars. in an upside-down house.,curiosity,despair,curiosity;despair,0.6
+,I reunited with my mother in a garden that smelled of cinnamon.,joy,nostalgia,joy;nostalgia,0.85
+120.0,I tried to call for help but my voice dissolved into water. and my voice echoed.,despair,confusion,despair;confusion,0.66
+15.0,I called a name and there was only an echo back.,loneliness,nostalgia,loneliness;nostalgia,0.59
+83.0,A light appeared at the end of a long hallway and kept getting brighter.,hope,,hope,0.67
+30.0,I followed rabbit holes that led to different eras of my life.,curiosity,,curiosity,0.81
+20.0,I could understand animals and asked a bird where it came from. and my voice echoed.,curiosity,,curiosity,0.72
+106.0,I found a ticket with my name to a place I've always dreamed of. with bright colors.,hope,,hope,0.98
+98.0,A playground from childhood appeared and I swung until the sun set. with a crowd watching.,nostalgia,,nostalgia,0.68
+48.0,I escaped a maze and found a bright field with fresh air. with a crowd watching.,relief,embarrassment,relief;embarrassment,0.8
+90.0,Someone destroyed my painting and I couldn't control my rage.,anger,,anger,0.84
+111.0,A weight lifted from my shoulders and I could breathe easily.,relief,,relief,0.45
+54.0,I watched someone suffer and couldn't help them despite knowing how. in dim light.,guilt,relief,guilt;relief,0.46
+175.0,I floated above the city and saw constellations drawn between buildings. and my voice echoed.,awe,,awe,0.98
+95.0,I found a ticket with my name to a place I've always dreamed of.,hope,loneliness,hope;loneliness,0.9
+161.0,A house I loved was empty and full of dust and silence. in dim light.,sadness,,sadness,0.43
+108.0,I escaped a maze and found a bright field with fresh air. and my voice echoed.,relief,surprise,relief;surprise,0.55
+123.0,I danced on a rooftop with friends while fireworks burst around us.,joy,guilt,joy;guilt,0.47
+169.0,I called a name and there was only an echo back.,loneliness,anxiety,loneliness;anxiety,0.9
+70.0,I kept apologizing to people who didn't reply and their faces blurred.,guilt,,guilt,0.58
+43.0,All the clocks stopped and I couldn't tell how long I'd been awake.,despair,anger,despair;anger,0.75
+18.0,A door opened to a hidden library filled with books about me.,surprise,,surprise,0.45
+6.0,I kept apologizing to people who didn't reply and their faces blurred. with my hands tied.,guilt,curiosity,guilt;curiosity,0.76
+114.0,I opened a box and found a tiny universe inside that glittered.,surprise,loneliness,surprise;loneliness,0.61
+85.0,Strangers suddenly started applauding me for no reason. in slow motion.,surprise,fear,surprise;fear,0.6
+139.0,I called a name and there was only an echo back. suddenly.,loneliness,,loneliness,0.59
+67.0,My lost pet returned home safe and wagging its tail.,relief,hope,relief;hope,0.59
+96.0,My lost pet returned home safe and wagging its tail. with bright colors.,relief,,relief,0.43
+180.0,Strangers suddenly started applauding me for no reason.,surprise,,surprise,0.74
+162.0,The ground was cracking under my feet while I tried to run. with bright colors.,anxiety,loneliness,anxiety;loneliness,0.65
+137.0,I could understand animals and asked a bird where it came from.,curiosity,,curiosity,0.68
+121.0,A familiar smile reunited me with an old friend and everything felt warm.,love,,love,0.69
+55.0,I opened a tiny door and found a ladder going into the stars. with a crowd watching.,curiosity,,curiosity,0.78
+74.0,I broke a vase and every step I took made it crack further.,guilt,,guilt,0.71
+117.0,I floated above the city and saw constellations drawn between buildings.,awe,,awe,0.58
+40.0,I found an old photograph of someone I lost and couldn't reach them.,sadness,confusion,sadness;confusion,0.91
+29.0,I found a letter saying I've been accepted into my dream program. with bright colors.,joy,awe,joy;awe,0.92
+45.0,I floated above the city and saw constellations drawn between buildings. suddenly.,awe,fear,awe;fear,0.81
+92.0,I sat at a table set for many but only one chair had food.,loneliness,,loneliness,0.99
+34.0,I was late for an important exam and couldn't find my notes.,anxiety,,anxiety,0.57
+52.0,I watched mountains breathe and change shape like sleeping giants. with a crowd watching.,awe,anger,awe;anger,0.56
+19.0,I was late for an important exam and couldn't find my notes.,anxiety,,anxiety,0.88
+109.0,A light appeared at the end of a long hallway and kept getting brighter. in dim light.,hope,,hope,0.7
+156.0,I found a letter saying I've been accepted into my dream program.,joy,,joy,0.44
+125.0,I found a ticket with my name to a place I've always dreamed of.,hope,curiosity,hope;curiosity,0.44
+13.0,A light appeared at the end of a long hallway and kept getting brighter.,hope,,hope,0.53
+131.0,I ran into my childhood home and everything smelled like fresh bread.,joy,nostalgia,joy;nostalgia,0.89
+82.0,A light appeared at the end of a long hallway and kept getting brighter.,hope,,hope,0.66
+,I couldn't move but the world moved around me.,fear,,fear,0.9
+79.0,A door opened to a hidden library filled with books about me.,surprise,confusion,surprise;confusion,0.53
+103.0,Strangers suddenly started applauding me for no reason.,surprise,guilt,surprise;guilt,0.47
+164.0,Strangers suddenly started applauding me for no reason. and my voice echoed.,surprise,,surprise,0.78
+14.0,I kept apologizing to people who didn't reply and their faces blurred. in dim light.,guilt,,guilt,0.88
+152.0,A door opened to a hidden library filled with books about me.,surprise,,surprise,0.65
+168.0,A house I loved was empty and full of dust and silence. in slow motion.,sadness,loneliness,sadness;loneliness,0.41
+46.0,Strangers suddenly started applauding me for no reason. and the sky was green.,surprise,,surprise,0.42
+113.0,All the clocks stopped and I couldn't tell how long I'd been awake. while it rained.,despair,,despair,0.64
+37.0,My phone rang and played a silly song while I gave a speech.,embarrassment,,embarrassment,0.43
+151.0,I sat at a table set for many but only one chair had food.,loneliness,,loneliness,0.99
+176.0,Someone destroyed my painting and I couldn't control my rage.,anger,,anger,0.68
+144.0,I opened a box and found a tiny universe inside that glittered.,surprise,,surprise,0.73
+91.0,I opened a box and found a tiny universe inside that glittered. in dim light.,surprise,,surprise,0.63
+127.0,The walls started closing in on me in a narrow hallway. in dim light.,fear,nostalgia,fear;nostalgia,0.65
+,The mirror showed a different face every time I blinked.,confusion,fear,confusion;fear,0.88
+167.0,I planted a seed and watched it grow into a tree overnight.,hope,,hope,0.91
+163.0,I saw my partner waiting at a train station with a huge bouquet.,love,fear,love;fear,0.77
+76.0,I watched someone suffer and couldn't help them despite knowing how. while it rained.,guilt,surprise,guilt;surprise,0.49
+22.0,My lost pet returned home safe and wagging its tail. in an upside-down house.,relief,,relief,0.49
+170.0,I smashed a window that wouldn't stop replaying an argument.,anger,,anger,0.61
+3.0,People spoke but their words became shapes I couldn't understand.,confusion,,confusion,0.73
+71.0,Someone destroyed my painting and I couldn't control my rage. in slow motion.,anger,,anger,0.73
+86.0,I was being chased by a faceless stranger through an empty mall.,fear,relief,fear;relief,0.82
+,A book whispered secrets about my future as I opened it.,curiosity,awe,curiosity;awe,0.76
+7.0,I couldn't stop falling and woke up before hitting the ground. in an upside-down house.,anxiety,,anxiety,0.45
+100.0,I saw my partner waiting at a train station with a huge bouquet.,love,,love,0.87
+1.0,I found an old photograph of someone I lost and couldn't reach them. suddenly.,sadness,anger,sadness;anger,0.81
+146.0,I found a letter saying I've been accepted into my dream program. in slow motion.,joy,,joy,0.65
+78.0,I followed rabbit holes that led to different eras of my life. in an upside-down house.,curiosity,,curiosity,0.7
+66.0,I kept apologizing to people who didn't reply and their faces blurred.,guilt,,guilt,0.56
+56.0,A weight lifted from my shoulders and I could breathe easily.,relief,despair,relief;despair,0.74
+115.0,I broke a vase and every step I took made it crack further. in slow motion.,guilt,,guilt,0.54
+89.0,People spoke but their words became shapes I couldn't understand. in dim light.,confusion,,confusion,0.97
+118.0,I tripped onstage and my lines vanished from the script.,embarrassment,confusion,embarrassment;confusion,0.56
+47.0,The walls started closing in on me in a narrow hallway.,fear,,fear,0.59
+63.0,I found an old photograph of someone I lost and couldn't reach them.,sadness,,sadness,0.53
+75.0,A familiar smile reunited me with an old friend and everything felt warm.,love,,love,0.78
+93.0,People spoke but their words became shapes I couldn't understand.,confusion,,confusion,0.42
+150.0,The sea swallowed the shore and I held onto a floating plank alone.,despair,,despair,0.61
+,I solved a puzzle that unlocked a memory I had forgotten.,relief,curiosity,relief;curiosity,0.7
+88.0,I found my old toys arranged perfectly on a shelf in a sunny attic.,nostalgia,,nostalgia,0.75
+133.0,My lost pet returned home safe and wagging its tail. and the sky was green.,relief,,relief,0.42
+136.0,I saw my partner waiting at a train station with a huge bouquet. in slow motion.,love,,love,0.51
+126.0,I found an old photograph of someone I lost and couldn't reach them.,sadness,,sadness,0.56
+11.0,I walked into a classroom in my pajamas while everyone stared.,embarrassment,loneliness,embarrassment;loneliness,0.82
+35.0,I tried to call for help but my voice dissolved into water.,despair,joy,despair;joy,0.74
+33.0,A door opened to a hidden library filled with books about me. in dim light.,surprise,,surprise,0.54
+155.0,I sat by a river alone while everyone else laughed far away. and my voice echoed.,sadness,,sadness,0.41
+39.0,I ran into my childhood home and everything smelled like fresh bread. suddenly.,joy,,joy,0.67
+84.0,I opened a box and found a tiny universe inside that glittered.,surprise,,surprise,0.71
+174.0,I followed rabbit holes that led to different eras of my life.,curiosity,joy,curiosity;joy,0.62
+,I was flying effortlessly above my worries and smiling.,joy,relief,joy;relief,0.95
+28.0,A shadow followed me through a dark forest and I couldn't see its face.,fear,awe,fear;awe,0.72
+101.0,I held hands with someone I can't stop thinking about under cherry trees.,love,,love,0.96
+24.0,I watched mountains breathe and change shape like sleeping giants. with bright colors.,awe,,awe,0.77
+104.0,I couldn't stop falling and woke up before hitting the ground. with bright colors.,anxiety,hope,anxiety;hope,0.79
+68.0,"A giant whale swam through the sky and sang a deep, kind song. in an upside-down house.",awe,nostalgia,awe;nostalgia,0.4
+10.0,A shadow followed me through a dark forest and I couldn't see its face. and my voice echoed.,fear,,fear,0.78
+160.0,I opened a box and found a tiny universe inside that glittered.,surprise,,surprise,0.86
+105.0,I kept entering rooms that changed layout and I couldn't find the exit. with my hands tied.,confusion,,confusion,0.78
+154.0,I danced on a rooftop with friends while fireworks burst around us. and the sky was green.,joy,,joy,0.6
+112.0,I opened a tiny door and found a ladder going into the stars.,curiosity,,curiosity,0.79
+177.0,The walls started closing in on me in a narrow hallway.,fear,relief,fear;relief,0.99
+65.0,My lost pet returned home safe and wagging its tail. with bright colors.,relief,,relief,0.64
+16.0,I tried to call for help but my voice dissolved into water. in slow motion.,despair,,despair,0.48
+42.0,A familiar smile reunited me with an old friend and everything felt warm. and my voice echoed.,love,,love,0.57
+153.0,I watched someone suffer and couldn't help them despite knowing how.,guilt,,guilt,0.63
+110.0,I broke a vase and every step I took made it crack further.,guilt,nostalgia,guilt;nostalgia,0.6
+81.0,A light appeared at the end of a long hallway and kept getting brighter.,hope,,hope,0.97
+53.0,I found an old photograph of someone I lost and couldn't reach them. and the sky was green.,sadness,,sadness,0.53
+27.0,My phone rang and played a silly song while I gave a speech. while it rained.,embarrassment,,embarrassment,0.93
+77.0,I couldn't stop falling and woke up before hitting the ground.,anxiety,awe,anxiety;awe,0.44
+44.0,I was late for an important exam and couldn't find my notes. and my voice echoed.,anxiety,,anxiety,0.7
+25.0,I danced on a rooftop with friends while fireworks burst around us.,joy,,joy,0.87
+4.0,I opened a box and found a tiny universe inside that glittered.,surprise,,surprise,0.4
+159.0,I was late for an important exam and couldn't find my notes.,anxiety,,anxiety,0.95
+50.0,A house I loved was empty and full of dust and silence. with my hands tied.,sadness,surprise,sadness;surprise,0.93
+132.0,Someone destroyed my painting and I couldn't control my rage.,anger,,anger,0.82
+179.0,A weight lifted from my shoulders and I could breathe easily.,relief,,relief,0.47
+31.0,I shouted at a mirror that kept repeating my mistakes.,anger,,anger,0.66
+122.0,A shadow followed me through a dark forest and I couldn't see its face.,fear,,fear,0.81
+116.0,I walked into my old school and every corridor felt exactly the same. and my voice echoed.,nostalgia,love,nostalgia;love,0.57
+165.0,I found a ticket with my name to a place I've always dreamed of.,hope,confusion,hope;confusion,0.81
+9.0,I walked into my old school and every corridor felt exactly the same.,nostalgia,,nostalgia,0.86
+61.0,I held hands with someone I can't stop thinking about under cherry trees. with my hands tied.,love,,love,0.87
+129.0,I found a ticket with my name to a place I've always dreamed of.,hope,surprise,hope;surprise,0.78
+2.0,A shadow followed me through a dark forest and I couldn't see its face. while it rained.,fear,,fear,0.54
+58.0,I danced on a rooftop with friends while fireworks burst around us. in dim light.,joy,,joy,0.94
+23.0,People spoke but their words became shapes I couldn't understand. with bright colors.,confusion,,confusion,0.86
+62.0,I followed rabbit holes that led to different eras of my life.,curiosity,,curiosity,0.56
+64.0,I planted a seed and watched it grow into a tree overnight. while it rained.,hope,surprise,hope;surprise,0.64
+8.0,I shouted at a mirror that kept repeating my mistakes.,anger,,anger,0.62
+,Everyone ignored me at a party where I wanted to belong.,loneliness,sadness,loneliness;sadness,0.8
+142.0,All the clocks stopped and I couldn't tell how long I'd been awake. with bright colors.,despair,,despair,0.48
+87.0,I was being chased by a faceless stranger through an empty mall.,fear,,fear,0.65
+97.0,I tripped onstage and my lines vanished from the script. in dim light.,embarrassment,fear,embarrassment;fear,0.97
+69.0,I walked into my old school and every corridor felt exactly the same.,nostalgia,,nostalgia,0.95
+51.0,A door opened to a hidden library filled with books about me. with bright colors.,surprise,,surprise,0.82
+143.0,I shouted at a mirror that kept repeating my mistakes. in dim light.,anger,,anger,0.98
+158.0,I called a name and there was only an echo back.,loneliness,,loneliness,0.86
+157.0,A weight lifted from my shoulders and I could breathe easily. with my hands tied.,relief,curiosity,relief;curiosity,0.91
+140.0,I watched someone suffer and couldn't help them despite knowing how.,guilt,curiosity,guilt;curiosity,0.4
+147.0,All the clocks stopped and I couldn't tell how long I'd been awake. with a crowd watching.,despair,,despair,0.63
+102.0,I called a name and there was only an echo back. and the sky was green.,loneliness,,loneliness,0.81
+21.0,I was on a train that never stopped and every window showed a different version of my life.,confusion,,confusion,0.72
+26.0,I watched mountains breathe and change shape like sleeping giants. in dim light.,awe,,awe,0.47
+135.0,People spoke but their words became shapes I couldn't understand.,confusion,,confusion,0.75
+72.0,I found my old toys arranged perfectly on a shelf in a sunny attic.,nostalgia,,nostalgia,0.94
+130.0,A playground from childhood appeared and I swung until the sun set. with a crowd watching.,nostalgia,,nostalgia,0.95
+145.0,I was being chased by a faceless stranger through an empty mall.,fear,joy,fear;joy,0.79
+80.0,I watched mountains breathe and change shape like sleeping giants. suddenly.,awe,,awe,0.67
+134.0,I followed rabbit holes that led to different eras of my life. suddenly.,curiosity,,curiosity,0.54
+138.0,I opened a tiny door and found a ladder going into the stars. and my voice echoed.,curiosity,sadness,curiosity;sadness,0.57
+73.0,I smashed a window that wouldn't stop replaying an argument. while it rained.,anger,,anger,0.66
+141.0,I planted a seed and watched it grow into a tree overnight.,hope,,hope,0.77
+38.0,I found an old photograph of someone I lost and couldn't reach them. while it rained.,sadness,embarrassment,sadness;embarrassment,0.72
